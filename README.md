@@ -36,12 +36,12 @@ pip install -r requirements.txt
 streamlit run app/app.py
 
 
-📌 Future Improvements
+## 📌 Future Improvements
 - Add more plant species and disease classes
 - Improve accuracy with transfer learning
 - Deploy on cloud (Heroku, AWS, or Streamlit Cloud)
 
-👨‍💻 Author
+## 👨‍💻 Author
 Developed by Shiva ✨
 Focused on building robust ML apps for real-world prediction tasks.
 
