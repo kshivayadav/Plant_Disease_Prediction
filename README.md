@@ -27,13 +27,13 @@ A deep learning-based web application that predicts plant diseases from leaf ima
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/plant-disease-prediction.git
-cd plant-disease-prediction
+git clone https://github.com/kshivayadav/Plant_Disease_Prediction.git
+cd Plant_Disease_Prediction
 pip install -r requirements.txt
 ```
 
 ## Run the Streamlit app:
-streamlit run app/app.py
+streamlit run main.py
 
 
 ## 📌 Future Improvements
