@@ -1,0 +1,22 @@
+# Python cache and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+myenv/
+
+# IDE files
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model and output files you don't want to track
+trained_model/*.keras
+output_schema.py
+
+# Logs
+*.log
