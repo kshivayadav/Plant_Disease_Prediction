@@ -19,15 +19,24 @@ An AI-powered application to detect plant diseases from leaf images using Convol
 
 Plant_Disease_prediction_CNN/
 │
+
 ├── app.py # Streamlit app integrating CNN + LLM for disease detection and advice
+
 ├── main.py # Model training and inference scripts
+
 ├── trained_model/ # Folder containing saved CNN model
+
 │ └── plant_disease_prediction_model.keras
+
 ├── class_indices.json # Mapping between class names and numerical labels
+
 ├── requirements.txt # Python dependencies
 ├── llm.py # Scripts interacting with the Ollama LLM for farmer suggestions
+
 ├── prompt.py # Prompts used for LLM to provide relevant advice
+
 ├── .gitignore
+
 └── README.md
 
 ---
